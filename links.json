@@ -1,0 +1,50 @@
+{
+  "years" : [
+    {
+      "year": "1º Ano",
+      "subjects" : [
+        {
+          "name": "Programação I",
+          "links" : [
+            {
+              "name": "Programação I - GitHub",
+              "url": "https://github.com/gipmon/p1"
+            }
+          ]
+        },
+        {
+          "name": "Programação II",
+          "links" : [
+            {
+              "name": "Programação II - GitHub",
+              "url": "https://github.com/gipmon/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2º Ano",
+      "subjects" : [
+        {
+          "name": "Programação III",
+          "links" : [
+            {
+              "name": "Programação III - GitHub",
+              "url": "https://github.com/gipmon/p3"
+            }
+          ]
+        },
+        {
+          "name": "Linguagens Formais e Autómatos",
+          "links" : [
+            {
+              "name": "Programação II - GitHub",
+              "url": "https://github.com/gipmon/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
