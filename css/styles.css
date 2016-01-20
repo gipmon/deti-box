@@ -102,10 +102,3 @@ h3,h4,h5 {
 #main {
  padding-top:120px;
 }
-
-@media only screen and (min-width:800px)and (max-width:3000px) {
-    #topbanner {
-        width: 640px;
-        height: 90px;
-    }
-}
