@@ -37,11 +37,51 @@
           ]
         },
         {
+          "name": "Arquitectura de Computadores I",
+          "links" : [
+            {
+              "name": "Aulas Práticas de ACI",
+              "url": "https://github.com/gipmon/ac1"
+            }
+          ]
+        },
+        {
+          "name": "Arquitectura de Computadores II",
+          "links" : [
+            {
+              "name": "Aulas Práticas de ACII",
+              "url": "https://github.com/gipmon/ac2"
+            }
+          ]
+        },
+        {
+          "name": "Algoritmos e Complexidade",
+          "links" : [
+            {
+              "name": "Aulas Práticas de AlgC",
+              "url": "https://github.com/gipmon/algc-aulas-praticas"
+            }
+          ]
+        },
+        {
           "name": "Linguagens Formais e Autómatos",
           "links" : [
             {
-              "name": "Programação II - GitHub",
-              "url": "https://github.com/gipmon/p2"
+              "name": "LFA - Trabalho Prático",
+              "url": "https://github.com/gipmon/ciberratojsontoxml"
+            },
+            {
+              "name": "LFA - Aulas Práticas",
+              "url": "https://github.com/gipmon/lfa-aulas-praticas"
+            }
+          ]
+        },
+        {
+          "name": "Sistemas Electrónicos",
+          "links" : [
+            {
+              "name": "Relatório do trabalho prático",
+              "url": "https://github.com/gipmon/se-relatorio"
             }
           ]
         }
@@ -59,6 +99,50 @@
               "url": "https://github.com/gipmon/p3"
             }
           ]
+        },
+        {
+          "name": "Sistemas de Operação",
+          "links" : [
+            {
+              "name": "SOFS14",
+              "url": "https://github.com/gipmon/sofs14"
+            }
+          ]
+        },
+        {
+          "name": "Bases de Dados",
+          "links" : [
+            {
+              "name": "Base de Dados - Práticas",
+              "url": "https://github.com/gipmon/bd-aulas-praticas"
+            },
+            {
+              "name": "Base de Dados - Trabalho",
+              "url": "https://github.com/gipmon/football-club"
+            }
+          ]
+        },
+        {
+          "name": "Interação Humano-computador",
+          "links" : [
+            {
+              "name": "IHC - Trabalho",
+              "url": "https://github.com/gipmon/football-club"
+            }
+          ]
+        },
+        {
+          "name": "Arquitectura de Redes",
+          "links" : [
+            {
+              "name": "Aulas Práticas",
+              "url": "https://github.com/gipmon/arquitectura-de-redes/tree/master/aulas"
+            },
+            {
+              "name": "Trabalho Prático",
+              "url": "https://github.com/gipmon/arquitectura-de-redes/tree/master/projecto"
+            }
+          ]
         }
       ],
       "id": "ano3"
@@ -67,11 +151,70 @@
       "year": "4º Ano",
       "subjects" : [
         {
-          "name": "Programação III",
+          "name": "Arquitectura de Redes Avançada",
           "links" : [
             {
-              "name": "Programação III - GitHub",
-              "url": "https://github.com/gipmon/p3"
+              "name": "Aulas Práticas",
+              "url": "https://github.com/gipmon/aredesavancada/tree/master/Aulas%20Praticas"
+            },
+            {
+              "name": "Trabalho Prático",
+              "url": "https://github.com/gipmon/aredesavancada/tree/master/Trabalho%20Pratico"
+            }
+          ]
+        },
+        {
+          "name": "Arquitectura de Computadores Avançada",
+          "links" : [
+            {
+              "name": "Aulas Práticas",
+              "url": "https://github.com/gipmon/acomputadoresavancada/tree/master/Aulas%20Praticas"
+            },
+            {
+              "name": "Trabalho Prático 1 (ver branchs)",
+              "url": "https://github.com/gipmon/acomputadoresavancada/tree/master/Trabalho1"
+            },
+            {
+              "name": "Trabalho Prático 2 (ver branchs)",
+              "url": "https://github.com/gipmon/acomputadoresavancada/tree/master/Trabalho%202"
+            }
+          ]
+        },
+        {
+          "name": "Computação Visual",
+          "links" : [
+            {
+              "name": "Aulas Práticas",
+              "url": "https://github.com/gipmon/computacaovisual/tree/master/AulasPraticas"
+            },
+            {
+              "name": "Trabalho de WebGL",
+              "url": "https://github.com/gipmon/computacaovisual/tree/master/Trabalho%20WebGL"
+            },
+            {
+              "name": "Trabalho de OpenCV",
+              "url": "https://github.com/gipmon/computacaovisual/tree/master/Trabalho%20OpenCV"
+            }
+          ]
+        },
+        {
+          "name": "Engenharia de Dados e Conhecimento",
+          "links" : [
+            {
+              "name": "EDC-Trabalho1",
+              "url": "https://github.com/gipmon/edc/tree/master/EDC-Trabalho1"
+            },
+            {
+              "name": "EDC-Trabalho2",
+              "url": "https://github.com/gipmon/edc/tree/master/EDC-Trabalho2"
+            },
+            {
+              "name": "EDC-Trabalho3",
+              "url": "https://github.com/gipmon/edc/tree/master/EDC-Trabalho3"
+            },
+            {
+              "name": "EDC - Trabalho Final",
+              "url": "https://github.com/gipmon/edc/tree/master/EDC%20-%20Trabalho%20Final"
             }
           ]
         }

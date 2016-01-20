@@ -35,7 +35,7 @@ $(document).ready(function() {
   function setSecreen(idAtive){
     for (var i = 0; i < course.years.length; i++) {
       if(course.years[i].id==idAtive){
-        $("#displayHtml").slideUp()
+        $("#displayHtml").hide();
         $("#displayHtml").html("");
         var htmlTo = "";
         for(var j = 0; j < course.years[i].subjects.length; j++){
@@ -61,7 +61,7 @@ $(document).ready(function() {
   function listener(){
     $("a[rel='course']").click(function(){
       $("#linkName").text($(this).text());
-      $("#hrefLink").text($(this).attr("url").substring(0,26));
+      $("#hrefLink").text($(this).attr("url").substring(0,23)+"...");
       $("#hrefLink").attr("href", $(this).attr("url"));
       console.log($(this));
     });
