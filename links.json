@@ -106,6 +106,10 @@
             {
               "name": "SOFS14",
               "url": "https://github.com/gipmon/sofs14"
+            },
+            {
+              "name": "Artesanato de Aveiro",
+              "url": "https://github.com/gipmon/so-artesanato-de-aveiro"
             }
           ]
         },

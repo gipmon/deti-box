@@ -2,7 +2,7 @@ $(document).ready(function() {
   var course;
 
   jQuery.ajax({
-    url: "/links.json",
+    url: "links.json",
     async: false,
     cache: false,
     dataType: "json",
