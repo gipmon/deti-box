@@ -4,11 +4,60 @@
       "year": "1º Ano",
       "subjects" : [
         {
+          "name": "Álgebra Linear e Geometria Analítica",
+          "links" : [
+            {
+              "name": "ALGA - Apontamentos",
+              "url": "http://ruieduardofalopes.wix.com/apontamentos#!alga/cfnm"
+            }
+          ]
+        },
+        {
+          "name": "Cálculo I",
+          "links" : [
+            {
+              "name": "C1 - Apontamentos",
+              "url": "http://ruieduardofalopes.wix.com/apontamentos#!c1/c1wav"
+            }
+          ]
+        },
+        {
+          "name": "Cálculo II",
+          "links" : [
+            {
+              "name": "C2 - Apontamentos",
+              "url": "http://ruieduardofalopes.wix.com/apontamentos#!c2/c2rp"
+            }
+          ]
+        },
+        {
+          "name": "Introdução aos Sistemas Digitais",
+          "links" : [
+            {
+              "name": "ISD - Apontamentos",
+              "url": "http://ruieduardofalopes.wix.com/apontamentos#!isd/c1e7f"
+            }
+          ]
+        },
+        {
+          "name": "Laboratórios de Sistemas Digitais",
+          "links" : [
+            {
+              "name": "LSD - Apontamentos",
+              "url": "http://ruieduardofalopes.wix.com/apontamentos#!lsd/c3zc"
+            }
+          ]
+        },
+        {
           "name": "Programação I",
           "links" : [
             {
               "name": "Programação I - GitHub",
               "url": "https://github.com/gipmon/p1"
+            },
+            {
+              "name": "P1 - Apontamentos",
+              "url": "http://ruieduardofalopes.wix.com/apontamentos#!p1/cwuy"
             }
           ]
         },
@@ -42,6 +91,10 @@
             {
               "name": "Aulas Práticas de ACI",
               "url": "https://github.com/gipmon/ac1"
+            },
+            {
+              "name": "AC1 - Apontamentos",
+              "url": "http://ruieduardofalopes.wix.com/apontamentos#!ac1/c1aoc"
             }
           ]
         },
@@ -51,6 +104,10 @@
             {
               "name": "Aulas Práticas de ACII",
               "url": "https://github.com/gipmon/ac2"
+            },
+            {
+              "name": "AC2 - Apontamentos",
+              "url": "http://ruieduardofalopes.wix.com/apontamentos#!ac2/c1mrv"
             }
           ]
         },
@@ -73,6 +130,15 @@
             {
               "name": "LFA - Aulas Práticas",
               "url": "https://github.com/gipmon/lfa-aulas-praticas"
+            }
+          ]
+        },
+        {
+          "name": "Mecânica e Campo Eletromagnético",
+          "links" : [
+            {
+              "name": "MCE - Apontamentos",
+              "url": "http://ruieduardofalopes.wix.com/apontamentos#!mce/cnvu"
             }
           ]
         },
@@ -145,6 +211,15 @@
             {
               "name": "Trabalho Prático",
               "url": "https://github.com/gipmon/arquitectura-de-redes/tree/master/projecto"
+            }
+          ]
+        },
+        {
+          "name": "Fundamentos de Redes",
+          "links" : [
+            {
+              "name": "FR - Apontamentos",
+              "url": "http://ruieduardofalopes.wix.com/apontamentos#!fr/cjyg"
             }
           ]
         }
